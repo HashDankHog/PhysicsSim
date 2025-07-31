@@ -1,0 +1,8 @@
+ - make the 3D animations look 3D
+ - JSON capabilities for automatically loading config files
+ - rotation
+ - springs
+ - rope
+ - non circular objects
+ - fluids
+ - Electromagnatism functionality
